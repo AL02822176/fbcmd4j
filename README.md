@@ -2,10 +2,6 @@
 Aplicación cliente de Facebook  (facebook4j)
 
 ## Instalación
-**Clonar el repositorio**  
-```
-git clone https://github.com/xcoru/fbcmd4j.git
-```
 
 **Importar a NetBeans**  
 1. Dar clic en `Achivo -> Abrir Proyecto -> `.
